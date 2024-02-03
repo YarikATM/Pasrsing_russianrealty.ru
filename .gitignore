@@ -7,7 +7,7 @@ metall.log
 .csv
 *.csv
 *.png
-.txt
+ТЗ.txt
 .png
 # Byte-compiled / optimized / DLL files
 __pycache__/
